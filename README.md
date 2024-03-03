@@ -31,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalsakunde&show_icons=true&locale=en&layout=compact" alt="prajwalsakunde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalsakunde&show_icons=true&locale=en" alt="prajwalsakunde" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalsakunde&" alt="prajwalsakunde" /></p>
