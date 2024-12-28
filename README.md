@@ -4,15 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalsakunde&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalsakunde" /> </p>
 
-- 🔭 I’m currently working on **Sofify**
 
 - 🌱 I’m currently learning **NextJs, Django ,Scikit-learn**
 
-- 💬 Ask me about **ReactJs, NodeJs ,MongoDB , Javascript , Cpp**
+- 💬 Ask me about **ReactJs, NodeJs ,MongoDB , Javascript , C++**
 
 - 📫 How to reach me **prajwalsakunde1234@gmail.com**
-
-- 🤸🏻 Extra Activity **gym rat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
